@@ -10,3 +10,4 @@ Input:
 
 Output:  
    simple interest = p*t*r  
+Small typo fix test
